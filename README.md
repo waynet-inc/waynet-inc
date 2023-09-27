@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github.com/waynet-inc/waynet-inc/blob/main/dino.gif)
 <!--
 **waynet-inc/waynet-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
