@@ -1,4 +1,4 @@
-![](https://github.com/waynet-inc/waynet-inc/blob/main/dino.gif)
+[![Go to CV](https://github.com/waynet-inc/waynet-inc/blob/main/dino.gif)](https://waynet-inc.github.io/cv/)
 <!--
 **waynet-inc/waynet-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
